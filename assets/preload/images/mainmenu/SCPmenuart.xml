@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="scpmenuart.png">
+	<!-- Created with Adobe Animate version 19.2.0.405 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="0660000" x="2" y="2" width="467" height="599"/>
+	<SubTexture name="0790000" x="473" y="2" width="540" height="536"/>
+	<SubTexture name="0870000" x="1017" y="2" width="707" height="574"/>
+	<SubTexture name="0960000" x="2" y="605" width="519" height="1186"/>
+	<SubTexture name="20060000" x="525" y="605" width="606" height="1213"/>
+	<SubTexture name="25210000" x="1135" y="605" width="358" height="690"/>
+	<SubTexture name="4260000" x="1497" y="605" width="507" height="496"/>
+	<SubTexture name="51670000" x="2" y="1822" width="419" height="648"/>
+	<SubTexture name="5290000" x="425" y="1822" width="583" height="392"/>
+	<SubTexture name="6820000" x="1012" y="1822" width="632" height="747"/>
+	<SubTexture name="9390000" x="2" y="2573" width="706" height="667"/>
+</TextureAtlas>

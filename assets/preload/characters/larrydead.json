@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "larryidle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				66,
+				59
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "larryleft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-8,
+				140
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "larryright",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				86,
+				102
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "larrydown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				27,
+				111
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "larryup",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/foundation/larrydead",
+	"position": [
+		-130,
+		690
+	],
+	"healthicon": "larrydead",
+	"flip_x": false,
+	"healthbar_colors": [
+		64,
+		64,
+		64
+	],
+	"camera_position": [
+		0,
+		-200
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

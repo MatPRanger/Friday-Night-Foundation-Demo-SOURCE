@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "2521idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				12,
+				-26
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "2521left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-19,
+				-12
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "2521right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-73,
+				-54
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "2521down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-62,
+				46
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "2521up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/foundation/2521troll",
+	"position": [
+		-150,
+		300
+	],
+	"healthicon": "2521troll",
+	"flip_x": false,
+	"healthbar_colors": [
+		252,
+		247,
+		255
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

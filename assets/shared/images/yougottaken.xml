@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="yougottaken.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="enter instance 10000" x="0" y="0" width="1286" height="730" pivotX="643" pivotY="0"/>
+	<SubTexture name="enter instance 10001" x="1286" y="0" width="1286" height="730"/>
+	<SubTexture name="enter instance 10002" x="2572" y="0" width="1286" height="730"/>
+	<SubTexture name="enter instance 10003" x="3858" y="0" width="1286" height="730"/>
+	<SubTexture name="enter instance 10004" x="5144" y="0" width="1286" height="730"/>
+	<SubTexture name="enter instance 10005" x="6430" y="0" width="1286" height="730"/>
+	<SubTexture name="enter instance 10006" x="0" y="730" width="1286" height="730"/>
+	<SubTexture name="enter instance 10007" x="1286" y="730" width="1286" height="730"/>
+	<SubTexture name="enter instance 10008" x="2572" y="730" width="1286" height="730"/>
+	<SubTexture name="enter instance 10009" x="3858" y="730" width="1286" height="730"/>
+	<SubTexture name="enter instance 10010" x="5144" y="730" width="1286" height="730"/>
+	<SubTexture name="enter instance 10011" x="6430" y="730" width="1286" height="730"/>
+	<SubTexture name="enter instance 10012" x="0" y="1460" width="1286" height="730"/>
+	<SubTexture name="enter instance 10013" x="1286" y="1460" width="1286" height="730"/>
+	<SubTexture name="enter instance 10014" x="2572" y="1460" width="1286" height="730"/>
+	<SubTexture name="enter instance 10015" x="3858" y="1460" width="1286" height="730"/>
+	<SubTexture name="enter instance 10016" x="5144" y="1460" width="1286" height="730"/>
+	<SubTexture name="enter instance 10017" x="6430" y="1460" width="1286" height="730"/>
+	<SubTexture name="enter instance 10018" x="0" y="2190" width="1286" height="730"/>
+	<SubTexture name="enter instance 10019" x="1286" y="2190" width="1286" height="730"/>
+	<SubTexture name="enter instance 10020" x="1286" y="2190" width="1286" height="730"/>
+	<SubTexture name="enter instance 10021" x="1286" y="2190" width="1286" height="730"/>
+	<SubTexture name="enter instance 10022" x="1286" y="2190" width="1286" height="730"/>
+	<SubTexture name="enter instance 10023" x="1286" y="2190" width="1286" height="730"/>
+	<SubTexture name="enter instance 10024" x="1286" y="2190" width="1286" height="730"/>
+	<SubTexture name="enter instance 10025" x="1286" y="2190" width="1286" height="730"/>
+	<SubTexture name="enter instance 10026" x="1286" y="2190" width="1286" height="730"/>
+	<SubTexture name="enter instance 10027" x="1286" y="2190" width="1286" height="730"/>
+	<SubTexture name="enter instance 10028" x="1286" y="2190" width="1286" height="730"/>
+	<SubTexture name="enter instance 10029" x="1286" y="2190" width="1286" height="730"/>
+	<SubTexture name="enter instance 10030" x="1286" y="2190" width="1286" height="730"/>
+	<SubTexture name="enter instance 10031" x="1286" y="2190" width="1286" height="730"/>
+	<SubTexture name="enter instance 10032" x="1286" y="2190" width="1286" height="730"/>
+	<SubTexture name="enter instance 10033" x="1286" y="2190" width="1286" height="730"/>
+	<SubTexture name="enter instance 10034" x="1286" y="2190" width="1286" height="730"/>
+	<SubTexture name="enter instance 10035" x="1286" y="2190" width="1286" height="730"/>
+	<SubTexture name="enter instance 10036" x="1286" y="2190" width="1286" height="730"/>
+	<SubTexture name="enter instance 10037" x="1286" y="2190" width="1286" height="730"/>
+	<SubTexture name="enter instance 10038" x="1286" y="2190" width="1286" height="730"/>
+	<SubTexture name="enter instance 10039" x="1286" y="2190" width="1286" height="730"/>
+</TextureAtlas>

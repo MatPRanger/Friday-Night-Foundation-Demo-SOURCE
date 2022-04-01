@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "gocidle"
+		},
+		{
+			"offsets": [
+				-2,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "gocleft"
+		},
+		{
+			"offsets": [
+				-5,
+				-26
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "gocdown"
+		},
+		{
+			"offsets": [
+				-9,
+				14
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "gocup"
+		},
+		{
+			"offsets": [
+				-17,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "gocright"
+		},
+		{
+			"offsets": [
+				-2,
+				268
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "attack",
+			"indices": [],
+			"name": "gocgun"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/foundation/goc",
+	"position": [
+		0,
+		550
+	],
+	"healthicon": "sammy",
+	"flip_x": false,
+	"healthbar_colors": [
+		115,
+		155,
+		255
+	],
+	"camera_position": [
+		0,
+		-150
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

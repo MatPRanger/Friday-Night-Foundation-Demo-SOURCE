@@ -1,0 +1,62 @@
+{
+	"storyName": "BREACH",
+	"hideFreeplay": false,
+	"weekBackground": "BreachSelectImage",
+	"weekBefore": "",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		 [
+			"locken in",
+			"173Icon",
+			[
+				150,
+				50,
+				20
+			]
+		],
+		[
+			"termites",
+			"GOC",
+			[
+				100,
+				100,
+				175
+			]
+		],
+		[
+			"testicular torsion",
+			"auxxy",
+			[
+				20,
+				20,
+				20
+			]
+		],
+		[
+			"captivaded",
+			"val",
+			[
+				184,
+				41,
+				14
+			]
+		],
+		[
+			"my ass",
+			"larrydead",
+			[
+				10,
+				10,
+				10
+			]
+		]
+		
+	],
+	"hideStoryMode": false,
+	"weekName": "Week 1"
+}

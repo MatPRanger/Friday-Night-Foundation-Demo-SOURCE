@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Peanut Idle"
+		},
+		{
+			"offsets": [
+				21,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Peanut Left"
+		},
+		{
+			"offsets": [
+				31,
+				1
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Peanut Up"
+		},
+		{
+			"offsets": [
+				31,
+				-13
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Peanut Right"
+		},
+		{
+			"offsets": [
+				32,
+				-30
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Peanut Down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/foundation/Peanut_Assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "173Icon",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		102,
+		206
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
