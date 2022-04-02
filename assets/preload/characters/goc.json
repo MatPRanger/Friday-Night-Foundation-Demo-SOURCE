@@ -1,70 +1,70 @@
 {
 	"animations": [
 		{
+			"loop": true,
 			"offsets": [
 				0,
 				0
 			],
-			"loop": true,
-			"fps": 24,
 			"anim": "idle",
-			"indices": [],
-			"name": "gocidle"
+			"fps": 24,
+			"name": "gocidle",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-2,
 				0
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "gocleft"
+			"fps": 24,
+			"name": "gocleft",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-5,
 				-26
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "gocdown"
+			"fps": 24,
+			"name": "gocdown",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-9,
 				14
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singUP",
-			"indices": [],
-			"name": "gocup"
+			"fps": 24,
+			"name": "gocup",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-17,
 				1
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "gocright"
+			"fps": 24,
+			"name": "gocright",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-2,
 				268
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "attack",
-			"indices": [],
-			"name": "gocgun"
+			"fps": 24,
+			"name": "gocgun",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
@@ -73,7 +73,7 @@
 		0,
 		550
 	],
-	"healthicon": "sammy",
+	"healthicon": "GOC",
 	"flip_x": false,
 	"healthbar_colors": [
 		115,

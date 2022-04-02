@@ -1,20 +1,20 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<TextureAtlas imagePath="logoBumpin.png">
-	<!-- Created with Adobe Animate version 19.2.0.405 -->
+<TextureAtlas imagePath="LogoBumpin.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
 	<!-- http://www.adobe.com/products/animate.html -->
-	<SubTexture name="logobump0000" x="2" y="2" width="831" height="832" frameX="-21" frameY="-24" frameWidth="874" frameHeight="874"/>
-	<SubTexture name="logobump0001" x="837" y="2" width="874" height="874"/>
-	<SubTexture name="logobump0002" x="837" y="2" width="874" height="874"/>
-	<SubTexture name="logobump0003" x="2" y="880" width="849" height="848" frameX="-12" frameY="-15" frameWidth="874" frameHeight="874"/>
-	<SubTexture name="logobump0004" x="2" y="880" width="849" height="848" frameX="-12" frameY="-15" frameWidth="874" frameHeight="874"/>
-	<SubTexture name="logobump0005" x="855" y="880" width="842" height="842" frameX="-15" frameY="-18" frameWidth="874" frameHeight="874"/>
-	<SubTexture name="logobump0006" x="855" y="880" width="842" height="842" frameX="-15" frameY="-18" frameWidth="874" frameHeight="874"/>
-	<SubTexture name="logobump0007" x="855" y="880" width="842" height="842" frameX="-15" frameY="-18" frameWidth="874" frameHeight="874"/>
-	<SubTexture name="logobump0008" x="855" y="880" width="842" height="842" frameX="-15" frameY="-18" frameWidth="874" frameHeight="874"/>
-	<SubTexture name="logobump0009" x="855" y="880" width="842" height="842" frameX="-15" frameY="-18" frameWidth="874" frameHeight="874"/>
-	<SubTexture name="logobump0010" x="855" y="880" width="842" height="842" frameX="-15" frameY="-18" frameWidth="874" frameHeight="874"/>
-	<SubTexture name="logobump0011" x="855" y="880" width="842" height="842" frameX="-15" frameY="-18" frameWidth="874" frameHeight="874"/>
-	<SubTexture name="logobump0012" x="855" y="880" width="842" height="842" frameX="-15" frameY="-18" frameWidth="874" frameHeight="874"/>
-	<SubTexture name="logobump0013" x="855" y="880" width="842" height="842" frameX="-15" frameY="-18" frameWidth="874" frameHeight="874"/>
-	<SubTexture name="logobump0014" x="855" y="880" width="842" height="842" frameX="-15" frameY="-18" frameWidth="874" frameHeight="874"/>
+	<SubTexture name="LogoBumpin0000" x="0" y="0" width="580" height="541"/>
+	<SubTexture name="LogoBumpin0001" x="0" y="0" width="580" height="541"/>
+	<SubTexture name="LogoBumpin0002" x="580" y="0" width="566" height="528" frameX="-7" frameY="-6" frameWidth="580" frameHeight="541"/>
+	<SubTexture name="LogoBumpin0003" x="580" y="0" width="566" height="528" frameX="-7" frameY="-6" frameWidth="580" frameHeight="541"/>
+	<SubTexture name="LogoBumpin0004" x="1146" y="0" width="552" height="515" frameX="-14" frameY="-13" frameWidth="580" frameHeight="541"/>
+	<SubTexture name="LogoBumpin0005" x="1146" y="0" width="552" height="515" frameX="-14" frameY="-13" frameWidth="580" frameHeight="541"/>
+	<SubTexture name="LogoBumpin0006" x="0" y="541" width="528" height="492" frameX="-26" frameY="-24" frameWidth="580" frameHeight="541"/>
+	<SubTexture name="LogoBumpin0007" x="0" y="541" width="528" height="492" frameX="-26" frameY="-24" frameWidth="580" frameHeight="541"/>
+	<SubTexture name="LogoBumpin0008" x="528" y="541" width="524" height="489" frameX="-28" frameY="-26" frameWidth="580" frameHeight="541"/>
+	<SubTexture name="LogoBumpin0009" x="528" y="541" width="524" height="489" frameX="-28" frameY="-26" frameWidth="580" frameHeight="541"/>
+	<SubTexture name="LogoBumpin0010" x="528" y="541" width="524" height="489" frameX="-28" frameY="-26" frameWidth="580" frameHeight="541"/>
+	<SubTexture name="LogoBumpin0011" x="528" y="541" width="524" height="489" frameX="-28" frameY="-26" frameWidth="580" frameHeight="541"/>
+	<SubTexture name="LogoBumpin0012" x="528" y="541" width="524" height="489" frameX="-28" frameY="-26" frameWidth="580" frameHeight="541"/>
+	<SubTexture name="LogoBumpin0013" x="528" y="541" width="524" height="489" frameX="-28" frameY="-26" frameWidth="580" frameHeight="541"/>
+	<SubTexture name="LogoBumpin0014" x="528" y="541" width="524" height="489" frameX="-28" frameY="-26" frameWidth="580" frameHeight="541"/>
 </TextureAtlas>

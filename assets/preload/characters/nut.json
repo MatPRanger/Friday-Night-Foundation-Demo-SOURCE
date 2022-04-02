@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "nut"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/nut",
+	"position": [
+		360,
+		-190
+	],
+	"healthicon": "173Icon",
+	"flip_x": false,
+	"healthbar_colors": [
+		252,
+		247,
+		255
+	],
+	"camera_position": [
+		-230,
+		330
+	],
+	"sing_duration": 4,
+	"scale": 0.6
+}

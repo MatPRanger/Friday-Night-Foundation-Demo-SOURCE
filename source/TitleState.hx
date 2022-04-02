@@ -521,9 +521,9 @@ class TitleState extends MusicBeatState
 		if (!skippedIntro)
 		{
 			logoBl.y = 800;
-			logoBl.angle = 10;
-			FlxTween.tween(logoBl, { y: -200 }, 1.5, {ease: FlxEase.quadOut});
-			FlxTween.tween(logoBl, {angle: -10}, 1, {ease: FlxEase.quadInOut, type: PINGPONG});
+			logoBl.angle = 3;
+			FlxTween.tween(logoBl, {y: -0}, 1.5, {ease: FlxEase.quadOut});
+			FlxTween.tween(logoBl, {angle: -3}, 1, {ease: FlxEase.quadInOut, type: PINGPONG});
 			
 			
 			back.visible = true;
